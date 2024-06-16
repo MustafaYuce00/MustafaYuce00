@@ -1,7 +1,7 @@
 # 💫 About Me:
-/*Merhaba! Ben Mustafa Yüce, Bilgisayar Mühendisiyim. Siber güvenlik ve mobil programlama alanlarında uzmanlaşmış bir yazılım geliştiricisiyim. Aşağıda benimle ilgili daha fazla bilgi bulabilirsiniz:<br><br>Siber Güvenlik<br>Güvenlik açıklarını tespit etme ve giderme<br>Güvenlik duvarları ve ağ güvenliği<br>Penetrasyon testleri ve güvenlik değerlendirmeleri<br>Mobil Programlama<br>Dart dili ile mobil uygulama geliştirme<br>Flutter kullanarak çapraz platform uygulamalar oluşturma<br>Performans optimizasyonu ve kullanıcı deneyimi iyileştirme<br>Projelerim ve katkılarım hakkında daha fazla bilgi almak için GitHub repo’larımı inceleyebilirsiniz. İş birliği yapmak veya sadece teknoloji üzerine sohbet etmek isterseniz benimle iletişime geçmekten çekinmeyin!
+<!--Merhaba! Ben Mustafa Yüce, Bilgisayar Mühendisiyim. Siber güvenlik ve mobil programlama alanlarında uzmanlaşmış bir yazılım geliştiricisiyim. Aşağıda benimle ilgili daha fazla bilgi bulabilirsiniz:<br><br>Siber Güvenlik<br>Güvenlik açıklarını tespit etme ve giderme<br>Güvenlik duvarları ve ağ güvenliği<br>Penetrasyon testleri ve güvenlik değerlendirmeleri<br>Mobil Programlama<br>Dart dili ile mobil uygulama geliştirme<br>Flutter kullanarak çapraz platform uygulamalar oluşturma<br>Performans optimizasyonu ve kullanıcı deneyimi iyileştirme<br>Projelerim ve katkılarım hakkında daha fazla bilgi almak için GitHub repo’larımı inceleyebilirsiniz. İş birliği yapmak veya sadece teknoloji üzerine sohbet etmek isterseniz benimle iletişime geçmekten çekinmeyin!
 
-*/
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-yuce-/) 
 
