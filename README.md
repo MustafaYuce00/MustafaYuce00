@@ -7,7 +7,7 @@
  
 <!-- <h1 align="center">Contact me 👋</h1>-->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-yuce-/) 
+<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-yuce-/) <br/>
  E-Mail:  <a href = "mailto:1mustafayuce0@gmail.com">1mustafayuce0@gmail.com</a><br><br> 
  
 </div>
